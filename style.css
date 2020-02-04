@@ -1,0 +1,9 @@
+.flex-cont {
+    display: flex;
+}
+
+.big-pic {
+    max-width: 1440px;
+    max-height: 538px;
+    
+}

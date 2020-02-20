@@ -1,9 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 .flex-cont {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.pics-cont div img {
+    img {
+        max-width: 100%;
+        display: block;
+        height: auto;
+      }
 }
 
 .big-pic {
-    max-width: 1440px;
-    max-height: 538px;
+    display: flex;
+    justify-content: center;
+}
+
+.the-big-pic {
+    display: flex;
+    justify-content: center;
+}
+.pics-width {
+    width: 25%;
+}
+.pics-cont {
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    flex-shrink: 1;
+}
+
+.banner {
+    position: absolute;
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    font-family: 'Assistant', sans-serif;
+}
+.what {
+    margin-bottom: -14px;
+}
+.everyone {
+    margin-bottom: 23px;
+}
+.watch {
+	background: url('img/cta_your_verse_27pt.png') no-repeat -219px -2px;
+	width: 540px;
+    height: 29px;
+    margin: auto;
+}
+.watch:hover {
+    background: url('img/cta_your_verse_27pt.png') no-repeat -219px -34px;
+	width: 540px;
+    height: 28px;
+    margin: auto;
+}
+.navbar ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+.navbar ul li {
+    float: left;
+    text-decoration: none;
+    background-color: black;
     
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 15px 15px;
+    font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }

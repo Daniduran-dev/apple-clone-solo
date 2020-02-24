@@ -8,16 +8,8 @@
     justify-content: center;
     flex-wrap: wrap;
     width: 100%;
+    overflow: hidden;
 }
-
-.pics-cont div img {
-    img {
-        max-width: 100%;
-        display: block;
-        height: auto;
-      }
-}
-
 .big-pic {
     display: flex;
     justify-content: center;
@@ -29,12 +21,21 @@
 }
 .pics-width {
     width: 25%;
+    border-right: 2px;
+    border-top: 2px;
+    border-style: solid;
+    border-color: white;
+    overflow: hidden;
 }
 .pics-cont {
     display: flex;
     justify-content: center;
     width: 1440px;
     flex-shrink: 1;
+    height: 200px;
+}
+.box-supplier {
+    border-right: 0px;
 }
 
 .banner {
@@ -62,19 +63,144 @@
     height: 28px;
     margin: auto;
 }
+
+.navbar {
+    position:absolute;
+    top: 50px;
+    left: 50%;
+    margin-left: -490px;
+    border-radius: 4px;
+    border: 1px;
+    border-style: solid;
+    display: block;
+    width: 980px;
+    height: 36px;
+    text-align: center;
+    border-top-color: #7a7a7a;
+    border-bottom-color: #585858;
+    border-left-color: #6f6f6f;
+    border-right-color: #6f6f6f;
+    background: repeating-linear-gradient(
+      180deg,
+      #868686 0px,
+      #717171 18px,
+      #5e5e5e 18px,
+      #797979 36px
+    );
+}
 .navbar ul {
     list-style-type: none;
     text-decoration: none;
+    margin: auto;
 }
 .navbar ul li {
     float: left;
     text-decoration: none;
-    background-color: black;
-    
+    width: 105.6px;
+    height: 36px;
 }
 .navbar ul li a {
+    display: block;
     text-decoration: none;
+    border-right: 1px;
+    border-color: rgb(109, 109, 109);
+    border-style: solid;
+    height: 36px;
+    width: 105.6px;
     color: white;
-    padding: 15px 15px;
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+.navbar ul li a span{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 36px;
+}
+.fa-apple {
+    display: block;
+    color:  white;
+    position: relative;
+    line-height: 36px;
+    top: 5px;
+}
+#searchbox-cont {
+    width: 132px;
+    height: 36px;
+}
+#searchbox {
+    display: block;
+    margin-left: 16px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-style: inset;
+    border-color: gray;
+    height: 20px;
+    width: 106px;
+    margin-top: 8px;
+    line-height: 36px;
+    background: none;
+}
+.fa-search {
+    position: absolute;
+    top: 14px;
+    left: 866px;
+    color: white;
+    font-weight: 100;
+}
+.footer-cont {
+    display: flex;
+    text-decoration: none;
+    color: #6e6e6e;
+    font-size: 10px;
+    text-align: center;
+    justify-content: space-between;
+    width: 1020px;
+    height: 90px;
+    margin: 0 auto;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+    text-decoration: none;
+    line-height: 15px;
+    margin-top: 20px;
+}
+.footer-cont a {
+    text-decoration: none;
+    color: #08c;
+}
+.left{
+    width: 50%;
+    text-decoration: none;
+}
+.shop {
+    text-align: left;
+    text-decoration: none;
+}
+.copy-priv {
+    display: flex;
+    align-self: center;
+    margin-top: 15px;
+}
+.copyright {
+    border-right: 1px solid #ccc;
+    margin-right: .6em;
+    padding-right: .6em;
+    height: 12px;
+}
+
+.site-map {
+    height: 12px;
+}
+.site-map ul {
+    list-style: none;
+}
+.site-map ul li {
+    display: flex;
+    float: left;
+    border-right: 1px solid #ccc;
+    margin-right: .6em;
+    padding-right: .6em;
+    height: 12px;
+    align-items: center;
+}
+#flag {
+    padding-top: 2px;
+    border-right: none; 
 }

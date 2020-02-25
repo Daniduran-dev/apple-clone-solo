@@ -110,10 +110,12 @@
     color: white;
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
-.navbar ul li a span{
+.navbar ul li a button{
     text-align: center;
     vertical-align: middle;
     line-height: 36px;
+    background: none;
+    color: white
 }
 .fa-apple {
     display: block;
@@ -135,7 +137,7 @@
     border-color: gray;
     height: 20px;
     width: 106px;
-    margin-top: 8px;
+    margin-top: -10px;
     line-height: 36px;
     background: none;
 }

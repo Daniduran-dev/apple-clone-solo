@@ -13,6 +13,16 @@
 .big-pic {
     display: flex;
     justify-content: center;
+    width: 1440px;
+    height: 659px;
+    background-image: url(img/your_verse_hero.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.big-pic a {
+    display: block;
+    width: 1440px;
+    height: 659px;
 }
 
 .the-big-pic {
@@ -26,6 +36,8 @@
     border-style: solid;
     border-color: white;
     overflow: hidden;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 .pics-cont {
     display: flex;
@@ -34,7 +46,22 @@
     flex-shrink: 1;
     height: 200px;
 }
+.pics-cont a {
+    display: block;
+    height: 200px;
+    width: 360.5px;
+}
+.box-5s {
+    background-image: url(img/promo_iphone5s.jpg);
+}
+.box-5c {
+    background-image: url(img/promo_iphone5c.jpg);
+}
+.box-30y {
+    background-image: url(img/promo_30_years.jpg);
+}
 .box-supplier {
+    background-image: url(img/promo_supplier_responsibility.jpg);
     border-right: 0px;
 }
 

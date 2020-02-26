@@ -69,7 +69,7 @@
 }
 .box-supplier {
 	background-image: url(img/promo_supplier_responsibility.jpg);
-	border-right: 0px;
+	border-right: 0;
 }
 .banner {
 	color: white;

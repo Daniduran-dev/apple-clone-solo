@@ -135,7 +135,6 @@
 	width: 105.6px;
 }
 .navbar a {
-    background-color: none;
 	border-color: rgb(109, 109, 109);
 	border-style: solid;
 	color: white;
@@ -154,8 +153,8 @@
 	vertical-align: middle;
 }
 .btn {
-    display: block;
     background: none;
+    display: block;
     padding-top: 8px;
 }
 .fa-apple {

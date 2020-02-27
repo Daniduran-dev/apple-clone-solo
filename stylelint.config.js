@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-ZUjVod2EvYMDbGqRSyW0rpfgBq3i+gnR/4PfrzLsy5f20oIcRfgFQFVKgi3Ztp917bP1K/kdP5q8+nAlJ3+cFA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-6548d5a1dd84bd83036c6a914b25b4ae.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-aX4OkLpzulpadvOncEEPpJZnQyeKNm2npzJowbL5JxptkoZXNPPy61R059xmEa3YyVF4Y4YXB6g+5o08uvdWpA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-697e0e90ba73ba5a5a76f3a770410fa4.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-aWCt/A1qCFFHv/UKBoS9jHRqexpzl4le8rrCfAyIIm8RdnEfFxDyhl0nZwbEgY9MXQrQaCOx6doLeYgiLhkJFw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6960adfc0d6a085147bff50a0684bd8c.css" />
     
     
     
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/22550229?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="microverseinc/linters-config" /><meta property="og:url" content="https://github.com/microverseinc/linters-config" /><meta property="og:description" content="Contribute to microverseinc/linters-config development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTAzMzQ0NDgwOjdkN2E0MmFiYjkxY2I2NDI1NzdmMWEyOWIyNjdmNWYxMjU2MGZiOTgzN2VjOGY2ODljNDRkZjBmNWRmZDYwYzk=--4b866d581454d0c1060e526e94a06551b2a3bc41">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTAzMzQ0NDgwOjQ4MGFkMTdjMmY0ZTFjZmE3MzJmMjZmMWFiNTc5NmQ0YmY2NzhlNzg0OTUyY2ZkMWViZjVjNjI4Yjk0MThjODY=--c255cae604e184a8bd2d6d83117d29c68e37f6f9">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="D854:71DB:12BBD9:1A3691:5E53DDAF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="528def3796293a2cffdf51e875fadf676aa4d8bd" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9taWNyb3ZlcnNlaW5jL2xpbnRlcnMtY29uZmlnL3RyZWUvbWFzdGVyL2NzcyIsInJlcXVlc3RfaWQiOiJEODU0OjcxREI6MTJCQkQ5OjFBMzY5MTo1RTUzRERBRiIsInZpc2l0b3JfaWQiOiIxNTcyNDIyNDE4MDI1NTQ4MjIiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="8baaae67f6b919393a6e64a631c15ebd8ab199b5abaa8f9fb31e45797b3d271a" data-pjax-transient="true" />
+  <meta name="request-id" content="C198:3EF9:58798C:731947:5E57CE5A" data-pjax-transient="true" /><meta name="html-safe-nonce" content="528def3796293a2cffdf51e875fadf676aa4d8bd" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9taWNyb3ZlcnNlaW5jL2xpbnRlcnMtY29uZmlnL3RyZWUvbWFzdGVyL2NzcyIsInJlcXVlc3RfaWQiOiJDMTk4OjNFRjk6NTg3OThDOjczMTk0Nzo1RTU3Q0U1QSIsInZpc2l0b3JfaWQiOiIxNTcyNDIyNDE4MDI1NTQ4MjIiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="d5e20fee984663453778bd23b97eebb12b9bfe3885ef7964786cb8768010bde6" data-pjax-transient="true" />
 
 
 
@@ -76,11 +76,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MzBmZGZiMjAzYWNlYzBlYzA4MzYyNDM5YjZjOTE4YjMyMzY1NTkxNjBkNGEwZmY0NGM3YTFkYWZiZGRiOGUxN3x7InJlbW90ZV9hZGRyZXNzIjoiMTEzLjE5MC45LjI0MSIsInJlcXVlc3RfaWQiOiJEODU0OjcxREI6MTJCQkQ5OjFBMzY5MTo1RTUzRERBRiIsInRpbWVzdGFtcCI6MTU4MjU1NDU2NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MmIwZTYwYWQxMGQyNTJjNWEzNzQyY2M5YmZmODBkMTIzMzAzNjMyYmVmYjVlYTZkYThhYTMwNmU2ODE3YTRmN3x7InJlbW90ZV9hZGRyZXNzIjoiMTEzLjE5MC45LjI0MSIsInJlcXVlc3RfaWQiOiJDMTk4OjNFRjk6NTg3OThDOjczMTk0Nzo1RTU3Q0U1QSIsInRpbWVzdGFtcCI6MTU4MjgxMjc3MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
-  <meta http-equiv="x-pjax-version" content="eacbe6db52108a7620a654343e47ad9b">
+  <meta http-equiv="x-pjax-version" content="28d8d8026e57d74f08f6fb05bd40674a">
   
 
       <link href="https://github.com/microverseinc/linters-config/commits/master.atom" rel="alternate" title="Recent Commits to linters-config:master" type="application/atom+xml">
@@ -163,7 +163,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="7E/mVDSYr/WVbqmbQBZPtrgy0gA77k/Djyiwj7/ls+E2JetlMx9K7fMiC14p5ppntBx8yzk0KXJIIHUQl7D34A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="mupgHDTYKRlnZrVrih+2NA4FLs9CXaztpUE5rW91kdBAgG0tM1/MAQEqF67j72PlAiuABECHylxiSfwyRyDV0Q==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -314,7 +314,7 @@
       <img class="avatar" height="20" width="20" alt="@Daniduran-dev" src="https://avatars3.githubusercontent.com/u/57133486?s=60&amp;v=4" />
       Daniduran-dev
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="faFZoJxV2JKh/Ewc+XyzfOd4iEgHootkgLeneLzcFF203vpBz9Hy/F9VwNkrAAsQ15/dUqdccjtAjj6bB3XZAQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EgI+ZnxmMDGPdM/AsgerDqr5rT6S/Qm9as4gzXhlawbbfZ2HL+IaX3HdQwVgexNimh74JDID8OKq97kuw8ymWg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -390,7 +390,8 @@
   <summary class="Header-link"
     aria-label="View profile and more"
     data-ga-click="Header, show menu, icon:avatar">
-    <img alt="@Daniduran-dev" class="avatar" src="https://avatars3.githubusercontent.com/u/57133486?s=60&amp;v=4" height="20" width="20">
+    <img class="avatar " alt="@Daniduran-dev" width="20" height="20" src="https://avatars3.githubusercontent.com/u/57133486?s=60&amp;v=4">
+
 
       <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
     <span class="dropdown-caret"></span>
@@ -434,7 +435,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="ZtjZx+QaUgtPzA1LFuF5mu8pqyoW6XjCioyGVreEGKsWy07ucHLuH44k0DWMh9PYWheErx0ukveIJ9OvtUPdfw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Wb3itpr18I7+J3FBD/vn5Pb5lMeBPqfbAHv3hSc/dCcprnWfDp1Mmj/PrD+VnU2mQ8e7Qor5Te4C0KJ8Jfix8w==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -552,22 +553,22 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-24T09:59:25-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-27T09:42:53-05:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-24T10:29:25-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-27T10:12:53-05:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-24T13:29:25-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-27T13:12:53-05:00">
             in 4 hours
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-02-24T23:59:59-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2020-02-27T23:59:59-05:00">
             today
           </button>
         </li>
@@ -632,12 +633,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="JT006IsYFrxlBC9FgfcyrLwl4QuhE03CYTI4ngEtpTXsQpcJ2Jw80puto4BTi4rAjMK0EQHttJ2hC6F9uoRoaQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Uv/QEJNMAz4MOF/kgLIMryRkX+IGIpX+5pGzr50+svibgHPxwMgpUPKR0yFSzrTDFIMK+KbcbKEmqCpMJpd/pA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_d32f" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1582554565606" class="form-control" /><input type="hidden" name="timestamp_secret" value="d0f88a0c6532c0f8d313c5dda1a93394324226872891c4e3d7c737334b877983" class="form-control" />
+      <input type="text" name="required_field_8186" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1582812773664" class="form-control" /><input type="hidden" name="timestamp_secret" value="d1e1df02bb05e59d0dc76563801c18d905edc7e250068fafd3cb3a5ccbc91b1e" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -657,9 +658,9 @@
 </div>
 
 
-    
+      
 
-
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
 
 
@@ -711,7 +712,7 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9FCl08jG6oi8ZMR4ggX31WrYQ1G4MzuLSCExhOYBU1tg/C3bJXq3LlDjMv1R7GxsG2y8nvEhcfW5h8W0aWSIKw==" />      <input type="hidden" name="repository_id" value="174139697">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="IbGzLEfcfYupD1b8/znBJDXoDRLycGY2qcmU+3vdX0e1HTskqmAgLUWIoHks0FqdRFzy3btiLEhYb2DL9LiENw==" />      <input type="hidden" name="repository_id" value="174139697">
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/stylelint.config.js&quot;,&quot;user_id&quot;:57133486}}" data-hydro-click-hmac="41f4e881f2f9f97c047670fabb733fc78431157d7f7438b98e45ae5fbd836152" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
@@ -785,7 +786,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/microverseinc/linters-config/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PX5GvzStzKxhASnAzgxiDWAFTc0bAha94iujRWU4v9p+2UTe6S/9OwMeDJ1UNl6Z0WnG/z9K/9wpDLLdHebvxA==" />
+    <form class="starred js-social-form" action="/microverseinc/linters-config/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ErujTTdIOaazBy6IusmJAYpH6vqwVjr6HQ9D6craYzFRHKEs6soIMdEYC9Ug87WVOythyJQe05vWKFJxsgQzLw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar microverseinc/linters-config" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/stylelint.config.js&quot;,&quot;user_id&quot;:57133486}}" data-hydro-click-hmac="e96b1218cbd4253ea8bdd96b2e960da96b75d2be4fee678fba0fa5efcda93f57" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
@@ -795,7 +796,7 @@
            32
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/microverseinc/linters-config/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KNHwyWgX/DTKUXZcrqITblME/LeQ3m94f/KXSiHo3tlUPc+7No7dIxovBj0bH5aNSoCg4qGoizndPVsPKsXCJw==" />
+    <form class="unstarred js-social-form" action="/microverseinc/linters-config/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="A8y+/izuyB2cU1jd26uJcgL/XPQk1rGBVy5hzcQF2EF/IIGMcnfpCkwtKLxuFgyRG3sAoRWgVcD14a2IzyjEvw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star microverseinc/linters-config" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/stylelint.config.js&quot;,&quot;user_id&quot;:57133486}}" data-hydro-click-hmac="6c3f37ac9b8d1bb141838f4231f6508a789fdfb4976df9f3050fa7afaad30010" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
@@ -809,13 +810,13 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/microverseinc/linters-config/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LNZX6iQeSVy71S//6+softFNyvfM/jApwINma2rDNzl61DMvhf7vEzlBNTcJAVQTM0rdpjU1CCnAKqnfmbIszQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/microverseinc/linters-config/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ElTtZJXLLpNV0gB8mKZQlf+h5KdEM6Xu/Tz9qAQ3NqREVomhNCuI3NdGGrR6TCz4Habz9r34ne79lTIc90YtUA==" />
             <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/stylelint.config.js&quot;,&quot;user_id&quot;:57133486}}" data-hydro-click-hmac="79b41da2d12268a68e9c5c6650817a09b63a7cf5936b11bbe1df0743cc530ab5" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of microverseinc/linters-config to your account" aria-label="Fork your own copy of microverseinc/linters-config to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/microverseinc/linters-config/network/members" class="social-count"
-       aria-label="98 users forked this repository">
-      98
+       aria-label="103 users forked this repository">
+      103
     </a>
   </li>
 </ul>
@@ -848,7 +849,7 @@
     <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /microverseinc/linters-config/pulls" href="/microverseinc/linters-config/pulls">
       <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg></div>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">1</span>
+      <span class="Counter">0</span>
       <meta itemprop="position" content="4">
 </a>  </span>
 
@@ -862,7 +863,7 @@
     <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /microverseinc/linters-config/projects" href="/microverseinc/linters-config/projects">
       <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg></div>
       Projects
-      <span class="Counter" >0</span>
+      <span class="Counter">0</span>
 </a>
     <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /microverseinc/linters-config/wiki" href="/microverseinc/linters-config/wiki">
       <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg></div>
@@ -901,7 +902,7 @@
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
       <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /microverseinc/linters-config/pulls" href="/microverseinc/linters-config/pulls">
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">1</span>
+        <span class="Counter">0</span>
         <meta itemprop="position" content="4">
 </a>    </span>
 
@@ -944,8 +945,7 @@
 
   
 
-
-
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
 
 <div class="container-lg clearfix new-discussion-timeline  p-responsive">
@@ -960,7 +960,7 @@
 
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/microverseinc/linters-config/blob/8ea3768aaa671cc97b200af8feb037bcc1ded585/css/stylelint.config.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:7369c04a8639035c5df530ac6be348ff -->
+    <!-- blob contrib key: blob_contributors:v22:7369c04a8639035c5df530ac6be348ff -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -1017,47 +1017,16 @@
 
 
 
-    
-  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
-      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
-        <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/MauricioRobayo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MauricioRobayo"><img class="avatar" src="https://avatars3.githubusercontent.com/u/2121481?s=40&amp;v=4" width="20" height="20" alt="@MauricioRobayo" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/MauricioRobayo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MauricioRobayo">MauricioRobayo</a>
-            <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Add stylelint-config-standard
-
-Fix #2" class="link-gray" href="/microverseinc/linters-config/commit/702780bf343a767ae13baa2d460626ad45104716">Add stylelint-config-standard</a>
-            </span>
-        </span>
-        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/microverseinc/linters-config/commit/702780bf343a767ae13baa2d460626ad45104716" data-pjax>702780b</a>
-          <relative-time datetime="2019-07-16T01:17:18Z" class="no-wrap">Jul 16, 2019</relative-time>
-        </span>
+    <include-fragment src="/microverseinc/linters-config/contributors/master/css/stylelint.config.js" class="Box Box--condensed commit-loader">
+      <div class="Box-body bg-blue-light f6">
+        Fetching contributors&hellip;
       </div>
 
-    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
-      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-        <summary class="btn-link">
-          <span><strong>1</strong> contributor</span>
-        </summary>
-        <details-dialog
-          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-          aria-label="Users who have contributed to this file"
-          src="/microverseinc/linters-config/contributors-list/master/css/stylelint.config.js" preload>
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Users who have contributed to this file
-            </h3>
-          </div>
-          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-        </details-dialog>
-      </details>
-    </div>
-  </div>
-
+      <div class="Box-body d-flex flex-items-center" >
+        <img alt="" class="loader-loading mr-2" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+        <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
+      </div>
+</include-fragment>
 
 
 
@@ -1091,13 +1060,13 @@ Fix #2" class="link-gray" href="/microverseinc/linters-config/commit/702780bf343
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/microverseinc/linters-config/edit/master/css/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4Ztjgx8sAGId3vvaeGdJ4nITQ/fmzfjWzZ7vrGjF126CznU7q5gREfsUAm9a3wF3jVkqq7TjcNpIZdmhHW2Tqg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/microverseinc/linters-config/edit/master/css/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ffuaMakPKnyVbpMuxJnL6tX5a6VMAdg52fErHL9AZ9oeroyJHbs7D3OkapvmIYN/KrMC+R4vUDVcCh0RyugjHg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/microverseinc/linters-config/delete/master/css/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZtiyNWBycNkZnByaeUy3VuyhzfC3S57ENc0YVLtvc4T1Fbl0yv2zmGFJGyB82a6rpgjck66czcEQrUuJ6UdnPQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/microverseinc/linters-config/delete/master/css/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0y4NGsh9+ivX5ga7CCbbt4WD38z7Af3fRxg8n/3N1xlA4wZbYvI5aq8zAQENs8JKzyrOr+LWrtpieG9Cr+XDoA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1642,11 +1611,11 @@ Fix #2" class="link-gray" href="/microverseinc/linters-config/commit/702780bf343
   </div>
 
 
-    <script crossorigin="anonymous" async="async" integrity="sha512-VTkKwyyXYz1e8w0v/7LXDKSa7yMy1qEQofgf/5bGrUv8wpbpaZxx5S3Uc6oYrvbOe432HJdJG5qsFdM9sbP+wg==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-55390ac3.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-o4vS4IKrjdy/HD+xr2+VhO6DxQmj5jikhHbEGrd8+JGhpmIOxRrpT1Qo5k3IhKimm8VXIu3pyYejLtOAkm+OsQ==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-a38bd2e0.js"></script>
     <script crossorigin="anonymous" async="async" integrity="sha512-3yNijdFdVDBZQDWrBvMeD2J9gyXwI5MKUMJSWdEGP44DgS4NEPQw2TmVlDdNAWrseJO5C/sXBSTrL24DvGMDJw==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-df23628d.js"></script>
-    <script crossorigin="anonymous" integrity="sha512-SUMPc4gdv3iYTdkVqTTwJXlPB5qoJW8wYpDWtnm4A5ZBPJ3/4rX+6Wh/z2BrBOP+kgsx0lkuqSqJ+ibYxA+w/g==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-49430f73.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-2MEeS8NBh+Chsps3QgggGd33YJffOUhWPlv63gsEJ0tMFa37BehDtz3BB0NC8OqgFW1aRd4ENUSYiG5/Bi7uLQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-d8c11e4b.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-CUSgMs4QjcmsRipX5BegKffRQoOS/y1zX64LLInpQrHZI66BBUsS+09F0aMO7z8ul+Qb2O475cbm9BrbYe2LQg==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-0944a032.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-d5mDxNLT9bY/RPRQSsWE5dA8j7YrzN83ixQhT1I/Fq0iXbb69R3QHjsMfbxMAy1tigjH56D0su7vFQd5vLLfDw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-779983c4.js"></script>
     
     
     

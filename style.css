@@ -3,6 +3,7 @@
 	margin: 0;
 	padding: 0;
 }
+
 .flex-cont {
 	display: flex;
 	flex-wrap: wrap;
@@ -10,6 +11,7 @@
 	overflow: hidden;
 	width: 100%;
 }
+
 .big-pic {
 	background-image: url(img/your_verse_hero.jpg);
 	background-position: bottom;
@@ -19,15 +21,18 @@
 	justify-content: center;
 	width: 1440px;
 }
+
 .big-pic a {
 	display: block;
 	height: 659px;
 	width: 1440px;
 }
+
 .the-big-pic {
 	display: flex;
 	justify-content: center;
 }
+
 .pics-width {
 	background-color: white;
 	background-position: bottom;
@@ -38,6 +43,7 @@
 	border-top: 2px !important;
 	width: 25%;
 }
+
 .pics-cont {
 	border-right: 2px;
 	border-right-color: white !important;
@@ -50,23 +56,28 @@
 	justify-content: center;
 	width: 1436px;
 }
+
 .pics-cont a {
 	display: block;
 	height: 200px;
 	width: 360.5px;
 }
+
 .box-5s {
 	background-image: url(img/promo_iphone5s.jpg);
 	border-left: 2px;
 	border-left-color: white;
 	border-left-style: solid;
 }
+
 .box-5c {
 	background-image: url(img/promo_iphone5c.jpg);
 }
+
 .box-30y {
 	background-image: url(img/promo_30_years.jpg);
 }
+
 .box-supplier {
 	background-image: url(img/promo_supplier_responsibility.jpg);
 	border-right: 0;
@@ -79,24 +90,29 @@
 	position: absolute;
 	text-align: center;
 }
+
 .what {
 	margin-bottom: -14px;
 }
+
 .everyone {
 	margin-bottom: 23px;
 }
+
 .watch {
 	background: url('img/cta_your_verse_27pt.png') no-repeat -219px -2px;
 	height: 29px;
 	margin: auto;
 	width: 540px;
 }
+
 .watch:hover {
 	background: url('img/cta_your_verse_27pt.png') no-repeat -219px -34px;
 	height: 28px;
 	margin: auto;
 	width: 540px;
 }
+
 .navbar {
 	background: repeating-linear-gradient(
       180deg,
@@ -121,11 +137,13 @@
 	top: 50px;
 	width: 986px;
 }
+
 .navbar ul {
 	list-style-type: none;
 	margin: auto;
 	text-decoration: none;
 }
+
 .navbar ul li {
 	border-color: rgb(109, 109, 109) !important;
 	border-right: 1px;
@@ -155,11 +173,13 @@
 	text-align: center;
 	vertical-align: middle;
 }
+
 .btn {
   background: none;
   display: block;
   padding-top: 8px;
 }
+
 .fa-apple {
 	color: white;
 	display: block;
@@ -167,10 +187,12 @@
 	position: relative;
 	top: -4px;
 }
+
 #searchbox-cont {
 	height: 36px;
 	width: 132px;
 }
+
 #searchbox {
 	background: none;
 	border-color: gray;
@@ -184,6 +206,7 @@
 	margin-top: -10px;
 	width: 106px;
 }
+
 .fa-search {
 	color: white;
 	font-weight: 100;
@@ -191,6 +214,7 @@
 	position: absolute;
 	top: 14px;
 }
+
 .footer-cont {
 	color: #6e6e6e;
 	display: flex;
@@ -205,35 +229,43 @@
 	text-decoration: none;
 	width: 1020px;
 }
+
 .footer-cont a {
 	color: #08c;
 	text-decoration: none;
 }
+
 .left {
 	text-decoration: none;
 	width: 50%;
 }
+
 .shop {
 	text-align: left;
 	text-decoration: none;
 }
+
 .copy-priv {
 	align-self: center;
 	display: flex;
 	margin-top: 15px;
 }
+
 .copyright {
 	border-right: 1px solid #ccc;
 	height: 12px;
 	margin-right: .6em;
 	padding-right: .6em;
 }
+
 .site-map {
 	height: 12px;
 }
+
 .site-map ul {
 	list-style: none;
 }
+
 .site-map ul li {
 	align-items: center;
 	border-right: 1px solid #ccc;
@@ -243,6 +275,7 @@
 	margin-right: .6em;
 	padding-right: .6em;
 }
+
 #flag {
 	border-right: none;
 	padding-top: 2px;

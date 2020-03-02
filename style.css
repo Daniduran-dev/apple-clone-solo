@@ -255,8 +255,8 @@
 .copyright {
   border-right: 1px solid #ccc;
   height: 12px;
-  margin-right: .6em;
-  padding-right: .6em;
+  margin-right: 0.6em;
+  padding-right: 0.6em;
 }
 
 .site-map {
@@ -272,8 +272,8 @@
   display: flex;
   float: left;
   height: 12px;
-  margin-right: .6em;
-  padding-right: .6em;
+  margin-right: 0.6em;
+  padding-right: 0.6em;
 }
 
 #flag {

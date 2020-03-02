@@ -114,7 +114,8 @@
 }
 
 .navbar {
-  background: repeating-linear-gradient(
+  background:
+      repeating-linear-gradient(
       180deg,
       #868686 0px,
       #717171 18px,

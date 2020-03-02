@@ -115,7 +115,7 @@
 
 .navbar {
   background:
-      repeating-linear-gradient(
+    repeating-linear-gradient(
       180deg,
       #868686 0px,
       #717171 18px,
@@ -268,7 +268,6 @@
 }
 
 .site-map ul li {
-  align-items: center;
   border-right: 1px solid #ccc;
   display: flex;
   float: left;
@@ -279,5 +278,4 @@
 
 #flag {
   border-right: none;
-  padding-top: 2px;
 }

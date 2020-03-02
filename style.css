@@ -168,22 +168,13 @@
 .navbar button {
   background: none;
   background-color: inherit;
-<<<<<<< HEAD
   color: white;
   line-height: 36px;
   text-align: center;
   vertical-align: middle;
-
-  .btn {
-=======
-	color: white;
-	line-height: 36px;
-	text-align: center;
-	vertical-align: middle;
 }
 
 .btn {
->>>>>>> d23b4f31df50931d51b9e2434d52214c23a5d434
   background: none;
   display: block;
   padding-top: 8px;
